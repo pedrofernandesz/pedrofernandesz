@@ -4,6 +4,7 @@
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-fernandess/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrofernandesz&show_icons=true&theme=dracula)
+
 ![zeus](https://github.com/pedrofernandesz/pedrofernandesz/blob/main/zeus-min.gif)
 
 ## Tecnologias:
