@@ -5,8 +5,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrofernandesz&show_icons=true&theme=dracula)
 
-![zeus](https://github.com/pedrofernandesz/pedrofernandesz/blob/main/zeus-min.gif)
-
 ## Tecnologias:
 
 <div style="display: inline_block"><br/>
