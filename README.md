@@ -3,7 +3,16 @@
 [![Instagram](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedro.codez/)
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-fernandess/)
 
+Alagoano desenvolvedor e estudante de Engenharia de Software, atualmente cursando o 2° Semestre de Software Engineer na Universidade UNOPAR (Universidade Norte do Paraná). 
+
+Possuo conhecimento básico em Python: estrutura de dados, repetição, condições, funções, módulos, classes, métodos. Atualmente conhecendo e estudando HTML, CSS, JavaScript com o foco inicial em desenvolvimento Back End.
+
+Me identifico como uma pessoa desafiadora, calma, otimista, esforçada e disposto a buscar novos conhecimentos em qualquer linguagem e pronto para me adaptar a novas mudanças.
+
+Hard Skills: Python, Html, Css, Git/Github, C (learning).
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrofernandesz&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias:
 
