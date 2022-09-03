@@ -12,6 +12,7 @@ Me identifico como uma pessoa desafiadora, calma, otimista, esforçada e dispost
 Hard Skills: Python, Html, Css, Git/Github, C (learning).
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrofernandesz&show_icons=true&theme=dracula)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias:
